@@ -17,8 +17,9 @@
   "author": "YBC Agency",
   "license": "ISC",
   "dependencies": {
-    "zeppelin-solidity": "1.6.0",
-    "truffle-hdwallet-provider": "0.0.3"
+    "openzeppelin-solidity": "1.9.0",
+    "truffle-hdwallet-provider": "0.0.3",
+    "zeppelin-solidity": "1.6.0"
   },
   "devDependencies": {
     "babel-polyfill": "6.26.0",
